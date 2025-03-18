@@ -1,5 +1,6 @@
 ### Olá! Eu sou o Arthur Peixoto! 👋
 
+#### 🚀 Sou um apaixonado por tecnologia, sempre buscando aprender mais e resolver problemas de forma inovadora. Cada desafio é uma oportunidade para crescer e transformar o mundo com soluções inteligentes.
 
 
 ## 📲Conecte-se comigo
