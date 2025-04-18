@@ -25,6 +25,7 @@
     src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
     <img align="center" alt="VSCode"
     src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+    <img align="center" alt="IntelliJ" src="     https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 </div>
 
@@ -34,5 +35,7 @@
     src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
 </div>
 
+##
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnpdev&show_icons=true&theme=radical)
 ##
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnpdev&show_icons=true&theme=radical)
