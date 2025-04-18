@@ -36,5 +36,5 @@
 </div>
 
 ##
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnpdev&show_icons=true&theme=radical)k"><br/>
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnpdev&show_icons=true&theme=radical)
 
