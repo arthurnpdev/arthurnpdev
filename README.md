@@ -40,8 +40,3 @@
     <img align="center" alt="Adobe AE"
     src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665" />
 </div>
-
-##
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnpdev&show_icons=true&theme=radical)
-##
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnpdev&show_icons=true&theme=radical)
